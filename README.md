@@ -1,4 +1,5 @@
 封装好的c++ string快速处理工具,主要实现了类似js的Split功能，类似py的format功能，以及Replace字符串替换功能。
+使用c++17以上的版本，经测试可以在windows和linux平台上运行
 
 ```cpp
 	建议的引入方式：
